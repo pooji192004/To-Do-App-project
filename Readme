@@ -1,0 +1,38 @@
+# ✅ To-Do App
+
+##  Description
+This is a simple and interactive To-Do application that allows users to manage their daily tasks efficiently. Users can add, delete, and mark tasks as completed, with data stored locally to persist even after refreshing the page.
+
+---
+
+##  Features
+-  Add new tasks
+-  Delete tasks
+-  Mark tasks as completed
+-  Save tasks using localStorage
+-  Clean and responsive UI
+
+---
+
+##  Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 📷 Screenshots
+
+### Home Screen
+![Home](screenshots/home.png)
+
+### Task Added
+![Task](screenshots/task.png)
+
+### Completed Tasks
+![Completed](screenshots/completed.png)
+
+---
+
+## 🔗 Live Demo
+(Add your deployed link here)
