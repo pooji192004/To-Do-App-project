@@ -1,4 +1,4 @@
-# ✅ To-Do App
+#  To-Do App
 
 ##  Description
 This is a simple and interactive To-Do application that allows users to manage their daily tasks efficiently. Users can add, delete, and mark tasks as completed, with data stored locally to persist even after refreshing the page.
@@ -23,12 +23,12 @@ This is a simple and interactive To-Do application that allows users to manage t
 
 ## 📷 Screenshots
 
-### Home Screen
-    https://github.com/pooji192004/To-Do-App-project/blob/main/To-Do%20App%20home.png
+#Home Screen
+    -https://github.com/pooji192004/To-Do-App-project/blob/main/To-Do%20App%20home.png
 
-### Task Added
-    https://github.com/pooji192004/To-Do-App-project/blob/main/Do%20list.png
+#Task Added
+    -https://github.com/pooji192004/To-Do-App-project/blob/main/Do%20list.png
 
 
 ## 🔗 Live Demo
-(Add your deployed link here)
+     -https://todoapp-4.netlify.app/
